@@ -1,0 +1,14 @@
+C:\source\MALibrary\МАTCP\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\source\MALibrary\МАTCP\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\source\MALibrary\МАTCP\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\source\MALibrary\МАTCP\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\source\MALibrary\МАTCP\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\source\MALibrary\МАTCP\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\source\MALibrary\МАTCP\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\source\MALibrary\МАTCP\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\source\MALibrary\МАTCP\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\source\MALibrary\МАTCP\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\source\MALibrary\МАTCP\Server\obj\Debug\netcoreapp2.1\Server.pdb
+C:\source\MALibrary\МАTCP\Server\bin\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\МАTCP\Server\bin\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\МАTCP\Server\obj\Debug\netcoreapp2.1\Server.csproj.CopyComplete

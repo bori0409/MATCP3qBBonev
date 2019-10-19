@@ -1,0 +1,14 @@
+C:\source\MALibrary\МАTCP\CLiennt\obj\Debug\netcoreapp2.1\CLiennt.csproj.CoreCompileInputs.cache
+C:\source\MALibrary\МАTCP\CLiennt\obj\Debug\netcoreapp2.1\CLiennt.AssemblyInfoInputs.cache
+C:\source\MALibrary\МАTCP\CLiennt\obj\Debug\netcoreapp2.1\CLiennt.AssemblyInfo.cs
+C:\source\MALibrary\МАTCP\CLiennt\bin\Debug\netcoreapp2.1\CLiennt.deps.json
+C:\source\MALibrary\МАTCP\CLiennt\bin\Debug\netcoreapp2.1\CLiennt.runtimeconfig.json
+C:\source\MALibrary\МАTCP\CLiennt\bin\Debug\netcoreapp2.1\CLiennt.runtimeconfig.dev.json
+C:\source\MALibrary\МАTCP\CLiennt\bin\Debug\netcoreapp2.1\CLiennt.dll
+C:\source\MALibrary\МАTCP\CLiennt\bin\Debug\netcoreapp2.1\CLiennt.pdb
+C:\source\MALibrary\МАTCP\CLiennt\obj\Debug\netcoreapp2.1\CLiennt.dll
+C:\source\MALibrary\МАTCP\CLiennt\obj\Debug\netcoreapp2.1\CLiennt.pdb
+C:\source\MALibrary\МАTCP\CLiennt\bin\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\МАTCP\CLiennt\bin\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\МАTCP\CLiennt\obj\Debug\netcoreapp2.1\CLiennt.csprojAssemblyReference.cache
+C:\source\MALibrary\МАTCP\CLiennt\obj\Debug\netcoreapp2.1\CLiennt.csproj.CopyComplete
